@@ -12,7 +12,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Activity for Functions</h1>
+    <h1>Activity for Functions!</h1>
 
     <form action="" method="post">
         <p>Number 1: <br> <input type="text" name="num1"></p>
